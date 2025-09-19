@@ -24,7 +24,7 @@ The script performs the following key tasks:
   * **Hyperparameter Tuning**: Automatically finds the best model parameters using `GridSearchCV` to maximize performance.
   * **Dataset**: Designed for the popular UC Merced Land Use dataset but can be adapted for any categorized image dataset.
 
-## ⚙️ Requirements
+## Requirements
 
 You will need Python 3 and the following libraries. You can install them using pip:
 
